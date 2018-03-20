@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JAODEN</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!--Splash Activity-->
+    <string name="app_splash_name">JAODEN</string>
+    <string name="app_splash_sub_name">Developed by\nJose Alberto Navarro Barrios</string>
+    <!--End SplashActivity-->
+
+    <!--Login Activity-->
+    <string name="loging_in_txt">Iniciando sesion&#8230;</string>
+    <string name="username_in_txt">Usuario</string>
+    <string name="password_in_txt">Constraseña</string>
+    <string name="login_in_txt">Iniciar sesion</string>
+    <!--End Login Activity-->
+
+    <!--General Strings-->
+    <string name="general_string_accept">Aceptar</string>
+    <string name="general_string_required_field">*Campo requerido</string>
+    <!--End General Strings-->
+</resources>

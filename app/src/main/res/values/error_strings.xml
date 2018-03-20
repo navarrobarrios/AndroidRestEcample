@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Web errors titles-->
+    <string name="error_default_title">Error</string>
+    <!--End Web errors titles-->
+    <!--Web error messages-->
+    <string name="error_message_E000">Error desconocido. (E000)</string>
+    <string name="error_message_E001">El usuario no existe. (E001)</string>
+    <string name="error_message_E002">Contraseña incorrecta. (E002)</string>
+    <string name="error_message_E003">Parametros invalidos. (E003)</string>
+    <string name="error_message_E004">Por el momento estamos experimentando problemas con nuestros servidores, intentalo mas tarde. (E004)</string>
+    <!--End Web errors messages-->
+    <!--Local Errors messages-->
+    <string name="error_message_E1000">Error desconocido. (E%s)</string>
+    <string name="error_message_E1001">Se perdio la conexión con el servidor, intenta de nuevo. (E1001)</string>
+    <string name="error_message_E1002">No se pudo conectar con los servidores. (E1002)</string>
+    <string name="error_message_E1003">Revisa tu conexión a internet. (E1003)</string>
+    <string name="error_message_E1004">La información del servidor no es valida. (E1004)</string>
+    <!--End Local Errors-->
+</resources>
